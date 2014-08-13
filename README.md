@@ -10,7 +10,7 @@ ___
 ### これからの WordPress の話をしよう
 
 WordCampTokyo2014のわぷーデータです。  
-「これからの WordPress の話をしよう」というテーマから未来をテーマにロボわぷーを制作しました。
+「これからの WordPress の話をしよう」というテーマから未来をイメージしてロボわぷーを制作しました。
 ___
 
 * [JPG](https://github.com/WordCampTokyo2014/wapuu/tree/master/JPG)
